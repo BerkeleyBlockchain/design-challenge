@@ -27,7 +27,7 @@ We don't expect this tier of work but if you can get anywhere close that's our e
 ### Graphic Design Task
 A make-believe blockchain tech company Argus that works on Enterprise blockchain with Raft consensus and easier smart contracts by having Python based smart contracts. They are looking for someone to come up with a brand for their 100M funded startup. Design one very strong illustration that could be used to show off something related to their product. Don't worry about tangentially being related to the company as long as you try to get it close - we don't expect you to understand how Raft consensus to work but you should be able to design something tangentially related to what this company does. 
 
-The client wants something more trendy and sleek (think consistent color/gradient schemes). Also if you have a visual hierarchy to help sell the client on your design language and inspire your client you will get bonus points. You can use typefaces to convey the product. Assume that we are optimized for 
+The client wants something more trendy and sleek (think consistent color/gradient schemes). Also if you have a visual hierarchy to help sell the client on your design language and inspire your client you will get bonus points. You can use typefaces to convey the product. Assume that we are optimizing for wow-factor.
 
 ### Web Design Task
 Blockchain at Berkeley has been in the process of redesigning our website. However, we are still trying to figure out a design language that sticks and we really love the logo colors and want to experiment with other combinations while maintain *some* of the logo's heritage. Check out what we're starting to work on here: https://berkeleyblockchain.github.io/
