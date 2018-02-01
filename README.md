@@ -5,7 +5,9 @@
 >Select at least one of the following tasks and show us what you're capable of!
 
 ## Requirements
-For each challenge, you must have some kind of visual deliverable, whether it's in PDF, AI or other format. You can use whatever software you want. We tend to use Adobe Photoshop, Illustrator, InDesign and Sketch. Additionally, for any of the tasks, you must have a folder of inspiration (minimum 5 pieces of inspiration) that you save and submit along with the the rest of your design. We recommend using Dribbble: https://dribbble.com/
+For each challenge, you must have some kind of visual deliverable, whether it's in PDF, AI or other format. You can use whatever software you want. We tend to use Adobe Photoshop, Illustrator, InDesign and Sketch. Additionally, for any of the tasks, you must have a folder of inspiration (minimum 5 pieces of inspiration) that you save and submit along with the the rest of your design. We recommend using Dribbble or Behance: 
+https://dribbble.com/
+https://www.behance.net
 
 ## Tasks
 
